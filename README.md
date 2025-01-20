@@ -1,25 +1,24 @@
 # Walk Aura - Modern Shoe E-Commerce Platform  
 
-Walk Aura is a premium online shoe store designed to offer comfort, style, and durability in every step. Built with an intuitive and visually stunning interface, Walk Aura provides an exceptional user experience for shoe enthusiasts. This project highlights the user interface and user experience (UI/UX) design using **Figma**, reflecting a seamless shopping journey.
+Walk Aura is an online shoe store designed to offer comfort, style and durability in every step. Built with an intuitive and visually stunning interface, Walk Aura provides an exceptional user experience for shoe enthusiasts. This project highlights the user interface and user experience (UI/UX) design using **Figma**, reflecting a seamless shopping journey.
 
 ---
 
 ## Project Overview  
 
-Walk Aura focuses on delivering a personalized shopping experience that merges elegance and functionality. From trendy sneakers to timeless classics, the platform is dedicated to curating a collection that matches every lifestyle. The design emphasizes easy navigation, engaging visuals, and streamlined functionality to ensure customer satisfaction.
+Walk Aura focuses on delivering a personalized shopping experience that merges elegance and functionality. From trendy sneakers to timeless classics, the platform is dedicated to curating a collection that matches every lifestyle. The design emphasizes easy navigation, engaging visuals and streamlined functionality to ensure customer satisfaction.
 
 ---
 
 ## Key Features of the Design  
 
 - **Homepage**:  
-   - Stunning hero section with promotional banners highlighting exclusive deals.  
-   - Featured shoe collections, trending styles, and bestsellers.  
+   - Featured shoe collections, trending styles and bestsellers.  
    - Clear call-to-action buttons for effortless navigation.  
 
 - **Product Pages**:  
-   - Detailed layouts displaying high-resolution images, prices, and customer reviews.  
-   - Smart filters for size, color, category, and price range to simplify selection.  
+   - Detailed layouts displaying high-resolution images, prices and customer reviews.  
+   - Smart filters for size, color, category and price range to simplify selection.  
 
 - **User Account**:  
    - Seamless registration and login process with profile management.  
@@ -36,8 +35,7 @@ Walk Aura focuses on delivering a personalized shopping experience that merges e
 
 ## Tools Used  
 
-- **Figma**: For creating a sleek and user-friendly UI/UX design.  
-- **Typography & Color Palette**: Carefully selected to reflect Walk Aura's modern and luxurious brand identity.  
+- **Figma**: For creating a sleek and user-friendly UI/UX design.    
 
 ---
 
