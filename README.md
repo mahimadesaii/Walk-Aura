@@ -3,7 +3,7 @@
 
 _"Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura."_
 
-<p align="center">_Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura._</p>
+_<p align="center">Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura.</p>_
 
 
 
