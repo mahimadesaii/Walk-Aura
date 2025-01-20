@@ -16,13 +16,19 @@ Walk Aura focuses on delivering a personalized shopping experience that merges e
 
 1. **Sign Up Page**: A registration page for new users to create an account with email or social media logins.
    
-3. **Sign In Page**: A login page for returning users to access their accounts with credentials or social media logins.
-4. **Home Page**: The main page showcasing product categories, featured items, and promotions.
-5. **Viewing Items Page**: A page displaying products with filters and sorting options for easy browsing.
-6. **Viewing Particular Item Page**: A detailed product page with images, descriptions, price, and customer reviews.
-7. **Viewing Cart Page**: A shopping cart page displaying selected items, quantities, and total cost.
-8. **Payment Page**: A secure page for entering payment information and confirming the order.
-9. **Contact Us Page**: A page with a contact form, customer support details, and FAQ for user assistance.
+2. **Sign In Page**: A login page for returning users to access their accounts with credentials or social media logins.
+   
+3. **Home Page**: The main page showcasing product categories, featured items, and promotions.
+   
+4. **Viewing Items Page**: A page displaying products with filters and sorting options for easy browsing.
+   
+5. **Viewing Particular Item Page**: A detailed product page with images, descriptions, price, and customer reviews.
+   
+6. **Viewing Cart Page**: A shopping cart page displaying selected items, quantities, and total cost.
+    
+7. **Payment Page**: A secure page for entering payment information and confirming the order.
+    
+8. **Contact Us Page**: A page with a contact form, customer support details, and FAQ for user assistance.
 
 ---
 
