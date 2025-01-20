@@ -38,6 +38,7 @@ Walk Aura focuses on delivering a personalized shopping experience that merges e
 ## Tools Used  
 
 **Figma**: For creating a sleek and user-friendly UI/UX design.
+  
 https://www.figma.com/design/OBwXuDFV0WvkvlNfneLnse/Walk-Aura?node-id=0-1&p=f&t=3p1Z6TWCiv8CdgiY-0
 
 ---
