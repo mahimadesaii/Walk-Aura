@@ -1,4 +1,4 @@
-#<p align="center">Walk Aura - Shoe E-Commerce Platform</p>
+# Walk Aura - Shoe E-Commerce Platform
 
 _<p align="center">Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura.</p>_
 
