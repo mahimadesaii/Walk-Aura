@@ -1,4 +1,4 @@
-# Walk Aura - Modern Shoe E-Commerce Platform  
+# Walk Aura - Shoe E-Commerce Platform  
 
 
 _"Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura."_
