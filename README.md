@@ -14,24 +14,14 @@ Walk Aura focuses on delivering a personalized shopping experience that merges e
 
 ## Key Features of the Design  
 
-- **Homepage**:  
-   - Featured shoe collections, trending styles and bestsellers.  
-   - Clear call-to-action buttons for effortless navigation.  
-
-- **Product Pages**:  
-   - Detailed layouts displaying high-resolution images, prices and customer reviews.  
-   - Smart filters for size, color, category and price range to simplify selection.  
-
-- **User Account**:  
-   - Seamless registration and login process with profile management.  
-   - Wishlist and order history functionality for a personalized experience.  
-
-- **Cart & Checkout**:  
-   - Intuitive cart interface to view and modify selected items.  
-   - Secure checkout process with multiple payment options.  
-
-- **Responsive Design**:  
-   - Optimized for both desktop and mobile platforms to ensure a flawless shopping experience on any device.  
+1. **Sign Up Page**: A registration page for new users to create an account with email or social media logins.
+2. **Sign In Page**: A login page for returning users to access their accounts with credentials or social media logins.
+3. **Home Page**: The main page showcasing product categories, featured items, and promotions.
+4. **Viewing Items Page**: A page displaying products with filters and sorting options for easy browsing.
+5. **Viewing Particular Item Page**: A detailed product page with images, descriptions, price, and customer reviews.
+6. **Viewing Cart Page**: A shopping cart page displaying selected items, quantities, and total cost.
+7. **Payment Page**: A secure page for entering payment information and confirming the order.
+8. **Contact Us Page**: A page with a contact form, customer support details, and FAQ for user assistance.
 
 ---
 
