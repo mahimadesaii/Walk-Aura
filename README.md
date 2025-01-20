@@ -3,6 +3,9 @@
 
 _"Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura."_
 
+<p align="center">Walk Aura inspires confidence in every step with footwear that blends fashion and functionality. Your journey, your aura.</p>
+
+
 
 Walk Aura is an online shoe store designed to offer comfort, style and durability in every step. Built with an intuitive and visually stunning interface, Walk Aura provides an exceptional user experience for shoe enthusiasts. This project highlights the user interface and user experience design using **Figma**, reflecting a seamless shopping journey.
 
