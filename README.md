@@ -14,9 +14,9 @@ Walk Aura focuses on delivering a personalized shopping experience that merges e
 
 ## Key Features of the Design  
 
-1. **Sign Up Page**:
-   A registration page for new users to create an account with email or social media logins.
-2. **Sign In Page**: A login page for returning users to access their accounts with credentials or social media logins.
+1. **Sign Up Page**: A registration page for new users to create an account with email or social media logins.
+   
+3. **Sign In Page**: A login page for returning users to access their accounts with credentials or social media logins.
 4. **Home Page**: The main page showcasing product categories, featured items, and promotions.
 5. **Viewing Items Page**: A page displaying products with filters and sorting options for easy browsing.
 6. **Viewing Particular Item Page**: A detailed product page with images, descriptions, price, and customer reviews.
